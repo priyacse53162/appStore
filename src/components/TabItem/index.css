@@ -1,0 +1,22 @@
+.tabButton {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-bottom: 2px solid #dfe2e5;
+  justify-content: space-around;
+  margin: 0px;
+}
+.tabButton {
+  width: 80px;
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #7b8794;
+}
+.activeTab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
+
+
+
